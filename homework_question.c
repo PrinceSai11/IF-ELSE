@@ -39,5 +39,5 @@ int main()
         printf("number is neither divisible by 3 neither by 4 nor by 5");
     }
 
-    return 0;
+    return 0;//git push origin main
 }
